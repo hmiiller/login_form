@@ -1,7 +1,7 @@
 
 # Login_Form 🌟
 
-![Logo](assets/img/logo_main.png)
+![Logo](assets/img/logo.png)
 
 Bem-vindo ao **Login_Form**! Este é um projeto moderno e responsivo que fornece uma interface de login simples e intuitiva, ideal para ser integrado em qualquer sistema web.
 
