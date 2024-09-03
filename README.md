@@ -30,18 +30,6 @@ O **Login_Form** foi desenvolvido com o objetivo de criar uma experiência de us
 - **Design Responsivo:** Layout adaptável para diferentes dispositivos, garantindo acessibilidade em desktops, tablets e smartphones.
 - **Animações Suaves:** Transições animadas para melhorar a interação do usuário.
 
-## ⚙️ Como Usar
-
-1. Clone o repositório:
-   ```bash
-   git clone https://github.com/hmiiller/login_form.git
-   ```
-2. Navegue até o diretório do projeto:
-   ```bash
-   cd login_form
-   ```
-3. Abra o arquivo `index.html` no seu navegador preferido.
-
 ## 📝 Licença
 
 Este projeto está sob uma [Licença Proprietária](LICENSE), protegendo todos os direitos autorais e restringindo o uso, modificação, distribuição e acesso ao código fonte.
