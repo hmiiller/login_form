@@ -34,6 +34,20 @@ O **Login_Form** foi desenvolvido com o objetivo de criar uma experiência de us
 
 Este projeto está sob uma [Licença Proprietária](LICENSE), protegendo todos os direitos autorais e restringindo o uso, modificação, distribuição e acesso ao código fonte.
 
-## 👨‍💻 Desenvolvedor
+---
 
-Desenvolvido com ❤️ por **Humberto Müller Fagundes Peixoto**.
+### 🤝 **Contribuição**
+
+Deseja contribuir para este projeto? Por favor, entre em contato antes para discutir como sua contribuição pode ser integrada.
+
+---
+
+### 📧 **Contato**
+
+Desenvolvido com ❤️ por **Humberto Müller Fagundes Peixoto**. Para mais informações ou dúvidas, entre em contato pelo [e-mail](mailto:humbertox3@gmail.com).
+
+---
+
+### 🏆 **Destaque da Versão**
+
+Esta versão foi projetada para oferecer uma interface inovadora e segura, com foco na usabilidade e acessibilidade. Continuamos comprometidos em melhorar a experiência do usuário e estamos abertos a sugestões e feedback.
